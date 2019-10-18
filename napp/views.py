@@ -3,5 +3,5 @@ from django.http import HttpResponse
 
 # Create your views here.
 def homepage(request):
-	return HttpResponse('Hello World, This is the file diployed to the github')
+	return HttpResponse('This application is now enabled with auto deployments')
 
