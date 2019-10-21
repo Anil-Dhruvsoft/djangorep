@@ -3,5 +3,5 @@ from django.http import HttpResponse
 
 # Create your views here.
 def homepage(request):
-	return HttpResponse('Hello World, I am a Django application. Created by Anil')
+	return HttpResponse(<h1>This application is now enabled with auto deployments</h1>)
 
